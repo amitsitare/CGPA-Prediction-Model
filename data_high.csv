@@ -1,0 +1,56 @@
+Gender,CGPA,10th Class Board,10th Class Science Marks (out of 100),10th Class Maths Marks (out of 100),10th Class English/Language Marks (out of 100),10th Class Overall Percentage,12th Class School Category,12th Class Board,12th Class Physics Marks (out of 100),12th Class Maths Marks (out of 100),12th Class Chemistry Marks (out of 100),12th Class English/Language Marks (out of 100),12th Class Overall Percentage,JEE Mains Session 1 Maths Percentile,JEE Mains Session 1 Physics  Percentile,JEE Mains Session 1 Chemistry  Percentile,JEE Mains Session 1 Overall Score,JEE Mains Session 2 Maths  Percentile,JEE Mains Session 2 Physics  Percentile,JEE Mains Session 2 Chemistry  Percentile,JEE Mains Session 2 Overall  Percentile
+Male,7.5,CBSE,93,95,90,90.0,Government School,CBSE,93.0,80.0,95.0,87,89.2,56.2,97.2,82.7,91.7,78.3,89.8,68.6,84.9
+Male,7.5,CBSE,97,88,89,91.2,Private School,CBSE,88.0,87.0,88.0,86,85.6,81.6,75.1,74.5,79.5,89.4,91.3,92.2,93.0
+Male,7.5,CBSE,60,78,73,72.8,Government School,CBSE,84.0,88.0,95.0,87,86.6,62.8,74.3,82.4,78.8,78.0,87.6,91.4,89.7
+Male,7.6,CBSE,86,85,85,88.2,Government School,CBSE,84.0,58.0,62.0,84,75.2,50.0,90.0,58.0,78.3,85.5,92.5,87.9,91.8
+Female,7.6,CBSE,69,87,86,85.4,Government School,CBSE,84.0,84.0,83.0,78,85.2,59.1,72.9,85.3,78.2,74.9,85.2,90.8,88.6
+Female,7.6,CBSE,67,89,78,84.2,Government School,CBSE,79.0,95.0,94.0,78,87.0,64.0,51.0,86.0,74.0,32.0,79.0,82.0,78.0
+Male,7.6,CBSE,76,94,73,85.0,Government School,CBSE,86.0,88.0,85.0,81,86.0,36.5,73.4,81.3,73.4,93.1,93.4,18.5,86.2
+Male,7.6,CBSE,94,97,94,95.5,Government School,CBSE,95.0,87.0,95.0,89,91.0,92.0,83.8,82.6,88.1,86.6,90.0,83.1,88.7
+Male,7.6,CBSE,98,91,94,95.8,Government School,CBSE,77.0,64.0,90.0,89,89.0,96.0,96.0,97.0,97.7,94.9,95.0,97.0,97.6
+Male,7.6,CBSE,81,93,95,91.6,Government School,CBSE,71.0,74.0,63.0,85,79.5,70.0,87.5,56.6,77.9,35.7,88.4,87.3,84.6
+Male,7.7,State Board,97,94,92,95.42,Government School,State Board,73.0,74.0,88.0,90,86.2,84.3,82.8,93.4,90.8,63.4,37.5,50.7,56.9
+Male,7.7,CBSE,85,96,89,92.2,Government School,CBSE,94.0,93.0,95.0,79,91.2,81.6,88.4,90.9,89.4,85.2,91.3,85.7,89.8
+Male,7.7,CBSE,77,91,92,85.8,Government School,CBSE,63.0,67.0,60.0,73,77.4,59.0,66.2,16.6,42.5,96.0,86.0,41.3,82.9
+Male,7.7,CBSE,92,86,90,91.17,Private School,CBSE,81.0,72.0,81.0,72,79.0,35.8,79.8,90.5,83.6,28.7,74.1,74.3,70.3
+Female,7.7,CBSE,73,91,87,84.6,Government School,CBSE,60.0,69.0,83.0,88,74.6,65.4,48.7,84.7,74.2,76.1,81.0,87.4,84.2
+Male,7.7,CBSE,93,92,92,91.8,Private School,CBSE,66.0,69.0,65.0,85,71.4,62.2,22.5,81.6,63.2,59.6,79.0,77.2,77.9
+Male,7.7,CBSE,84,88,87,84.6,Government School,CBSE,88.0,66.0,86.0,91,82.67,87.7,78.9,80.5,83.7,60.8,76.1,25.2,58.9
+Female,7.8,CBSE,94,94,81,90.8,Government School,CBSE,82.0,61.0,80.0,85,75.8,57.2,81.2,84.2,82.3,64.7,88.7,95.5,90.8
+Female,7.8,CBSE,93,97,93,93.6,Government School,CBSE,73.0,89.0,85.0,74,79.8,55.7,89.0,96.4,91.6,65.0,84.3,96.1,90.4
+Male,7.8,State Board,85,91,90,88.0,Government School,State Board,87.0,48.0,85.0,90,77.0,75.5,87.5,80.7,85.4,12.3,83.9,91.7,84.7
+Female,7.8,CBSE,81,95,69,85.2,Government School,CBSE,89.0,84.0,93.0,85,88.0,83.6,74.3,67.9,76.0,75.6,88.4,87.6,88.3
+Male,7.8,CBSE,72,84,91,83.2,Government School,CBSE,89.0,63.0,72.0,90,82.0,51.9,85.3,31.7,69.5,84.5,91.2,79.2,88.2
+Male,7.8,CBSE,91,95,91,93.6,Government School,CBSE,82.0,88.0,91.0,92,88.66,62.8,76.5,73.3,75.5,74.9,81.3,87.2,85.3
+Male,7.8,CBSE,93,95,94,94.2,Government School,CBSE,84.0,75.0,77.0,77,80.0,43.2,91.3,97.6,93.2,65.9,96.0,96.2,94.8
+Male,7.9,CBSE,94,98,88,94.6,Government School,CBSE,79.0,95.0,95.0,84,89.6,77.4,78.9,93.9,86.8,90.8,74.0,98.7,91.8
+Male,7.9,CBSE,77,74,91,84.2,Government School,CBSE,87.0,50.0,73.0,91,79.4,86.0,92.8,84.3,90.7,60.7,94.4,84.7,89.2
+Male,7.9,CBSE,91,91,93,93.0,Government School,CBSE,80.0,79.0,80.0,97,86.2,16.5,81.1,63.9,69.0,81.0,79.0,79.1,81.9
+Male,7.9,CBSE,95,95,83,94.0,Private School,CBSE,83.0,93.0,91.0,89,91.4,93.2,90.1,82.8,91.1,46.6,86.1,42.5,75.6
+Male,7.9,CBSE,81,86,81,82.8,Private School,CBSE,69.0,53.0,87.0,75,75.2,26.8,97.3,93.0,93.2,43.1,87.3,85.1,84.3
+Female,7.9,CBSE,95,94,90,94.2,Government School,CBSE,95.0,67.0,80.0,80,82.8,70.7,78.1,95.9,87.7,38.0,89.8,91.1,87.5
+Male,7.9,CBSE,93,94,90,92.6,Government School,CBSE,79.0,80.0,84.0,79,83.0,79.2,83.5,90.2,87.8,45.1,90.6,87.7,87.9
+Male,8.0,CBSE,91,93,92,92.8,Government School,CBSE,95.0,73.0,87.0,90,86.2,40.0,95.1,91.4,91.0,82.9,96.3,92.7,94.4
+Female,8.0,CBSE,93,91,84,89.6,Private School,CBSE,73.0,79.0,72.0,81,75.4,43.2,77.7,77.0,75.3,87.1,62.3,76.3,74.8
+Male,8.0,CBSE,77,86,80,84.6,Government School,CBSE,88.0,54.0,80.0,80,78.6,51.0,91.0,92.0,90.3,65.0,92.0,93.0,91.6
+Male,8.0,State Board,100,100,100,100.0,Private School,State Board,95.0,93.0,98.0,92,93.2,16.9,91.9,85.0,85.4,47.2,88.8,91.7,88.8
+Female,8.0,State Board,90,95,90,93.0,Private School,State Board,91.0,95.0,86.0,85,88.2,75.6,68.5,46.0,64.3,85.8,62.7,58.0,69.7
+Female,8.0,CBSE,93,98,90,94.0,Government School,CBSE,88.0,92.0,92.0,85,90.8,84.1,78.9,59.6,76.3,91.8,82.6,31.7,78.2
+Male,8.0,CBSE,78,93,75,86.2,Government School,CBSE,66.0,82.0,68.0,70,79.0,55.3,73.1,70.7,71.7,87.9,76.1,59.5,77.2
+Male,8.0,CBSE,98,95,99,97.6,Government School,CBSE,64.0,56.0,68.0,83,70.0,75.0,57.0,39.0,55.0,60.0,84.0,68.0,78.0
+Female,8.0,CBSE,85,90,93,90.8,Government School,CBSE,79.0,75.0,78.0,92,80.8,91.6,79.6,82.9,86.6,74.1,89.2,86.2,88.0
+Male,8.0,CBSE,95,89,88,87.0,Government School,CBSE,87.0,89.0,99.0,75,86.8,87.4,91.9,97.9,95.1,87.4,91.9,97.9,95.1
+Male,8.1,CBSE,91,97,97,94.8,Government School,CBSE,95.0,95.0,97.0,92,93.2,34.9,90.8,75.0,81.0,49.5,81.6,89.6,84.3
+Male,8.1,State Board,97,100,97,97.28,Government School,State Board,91.0,95.0,95.0,90,92.8,91.1,77.3,75.9,82.2,88.6,72.1,83.3,82.7
+Male,8.1,CBSE,91,88,93,92.0,Private School,CBSE,71.0,92.0,78.0,87,79.2,54.8,64.7,81.6,74.6,46.2,76.9,95.6,87.0
+Male,8.1,CBSE,92,91,93,94.0,Government School,CBSE,95.0,91.0,93.0,86,94.0,83.0,90.5,94.8,93.2,79.7,73.5,48.4,70.7
+Male,8.2,CBSE,92,86,86,90.6,Private School,State Board,95.0,100.0,90.0,88,92.5,66.0,83.6,90.2,85.5,57.5,90.8,96.9,91.8
+Male,8.2,CBSE,89,95,90,92.0,Government School,CBSE,86.0,82.0,84.0,84,87.0,72.9,88.1,97.9,93.0,47.3,92.2,94.9,91.3
+Female,8.2,ICSE,93,87,93,93.2,Private School,ICSE,73.0,70.0,78.0,91,82.0,55.3,87.9,82.9,85.3,62.8,73.5,62.2,70.7
+Male,8.3,State Board,98,94,87,96.0,Government School,State Board,92.0,94.0,70.0,74,86.5,70.0,83.7,93.4,88.6,67.7,88.1,80.9,85.3
+Female,8.3,CBSE,94,92,93,90.0,Private School,CBSE,95.0,87.0,86.0,87,88.0,88.6,91.4,76.9,88.8,83.2,91.7,88.6,90.8
+Male,8.4,CBSE,80,95,91,91.0,Government School,CBSE,95.0,92.0,83.0,92,90.2,96.3,91.8,72.7,90.1,91.5,86.5,88.6,89.9
+Male,8.6,CBSE,98,99,99,97.16,Private School,CBSE,94.0,95.0,96.0,91,95.0,71.7,93.9,88.9,92.6,78.1,93.8,86.0,90.6
+Male,8.6,CBSE,95,99,84,94.4,Private School,CBSE,75.0,86.0,72.0,80,79.0,73.3,87.8,78.3,84.8,82.9,93.6,83.2,90.4
+Male,8.6,State Board,93,79,76,88.0,Government School,Others,82.0,81.0,78.0,78,81.4,95.3,58.3,95.7,88.2,89.9,72.6,90.6,84.7
+Female,8.6,ICSE,83,89,86,91.8,Private School,ICSE,98.0,98.0,93.0,90,96.0,94.9,87.8,57.4,84.5,91.9,86.1,82.6,88.3
